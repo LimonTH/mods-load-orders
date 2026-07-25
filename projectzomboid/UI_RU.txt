@@ -1,0 +1,7 @@
+UI_RU = {
+    UI_optionscreen_binding_SixthSense_Key = "Шестое чувство",
+    UI_trait_SixthSense = "Шестое чувство",
+    UI_trait_SixthSenseDesc = "Вы чувствуете, когда кто-то находится рядом. <BR> Мудл показывает расстояние до ближайшего гуманоидного существа.",
+    UI_optionscreen_binding_ProximityInventory = "Окружающий инвентарь",
+    UI_optionscreen_binding_ProxInv_Force_Selected = "Клавиша принудительного выбора",
+}

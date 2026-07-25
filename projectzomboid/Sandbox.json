@@ -1,0 +1,18 @@
+{
+    "Sandbox_BalanceTraits_SixthSense": "Шестое чувство",
+    "Sandbox_Moodles": "Modded Moodles",
+    "Sandbox_Moodles_SixthSenseWorksOnHumans": "«Шестое чувство» работает на людей",
+    "Sandbox_Moodles_SixthSenseWorksOnHumans_tooltip": "Отключите, если планируете играть исключительно в кооперативе без PvP.",
+    "Sandbox_Moodles_SixthSenseDynamic": "Динамическое «Шестое чувство»",
+    "Sandbox_Moodles_SixthSenseDynamic_tooltip": "Существует 3 условия для разблокировки, которые можно настроить ниже. Установка всех параметров в 0 сделает черту бесплатной. По умолчанию стоят рекомендуемые значения.",
+    "Sandbox_Moodles_SixthSenseLevelsRequired": "Требуемый уровень навыков «Скрытность» + «Ловкость»",
+    "Sandbox_Moodles_SixthSenseLevelsRequired_tooltip": "Суммарный уровень навыков «Скрытность» и «Ловкость», необходимый для разблокировки «Шестого чувства». Если установлено 0, условие игнорируется.",
+    "Sandbox_Moodles_SixthSenseDaysSurvived": "Требуется дней выживания",
+    "Sandbox_Moodles_SixthSenseDaysSurvived_tooltip": "Сколько дней персонаж должен прожить для разблокировки «Шестого чувства». Если установлено 0, условие игнорируется.",
+    "Sandbox_Moodles_SixthSenseKillsRequired": "Требуется убийств зомби",
+    "Sandbox_Moodles_SixthSenseKillsRequired_tooltip": "Сколько зомби должен убить персонаж для разблокировки «Шестого чувства». Если установлено 0, условие игнорируется.",
+    "Sandbox_ProximityInventory": "Окружающий инвентарь",
+    "Sandbox_ZombieOnly": "Режим только для зомби",
+    "Sandbox_ZombieOnly_tooltip": "Включите, если хотите, чтобы окружающий инвентарь работал только с зомби"
+
+}

@@ -1,0 +1,9 @@
+name=RUniversal Pack
+id=RUniversalPack
+description=Russian Localization for mods in Universal Pack. Target: MeatExpansion2.0,FishingExpansion,CraftingSkillsPractice,SixthSenseMoodle,dailystatisticsandgains,ProxInv.
+author=Шеф
+modversion=1.0
+versionMin=42.16
+tags=Build 42
+# icon=icon.png
+poster=poster.png

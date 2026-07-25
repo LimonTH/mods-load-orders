@@ -1,0 +1,17 @@
+{
+    "PracticeSimpleKnapping": "Практика: Базовая обработка камня",
+    "PracticeIntermediateKnapping": "Практика: Средняя обработка камня",
+    "PracticeAdvancedKnapping": "Практика: Сложная обработка камня",
+    "PracticeSimpleCarvingWood": "Практика: Базовая резьба по дереву",
+    "PracticeIntermediateCarvingWood": "Практика: Средняя резьба по дереву",
+    "PracticeAdvancedCarvingWood": "Практика: Сложная резьба по дереву",
+    "PracticeSimpleCarvingBone": "Практика: Базовая резьба по кости",
+    "PracticeIntermediateCarvingBone": "Практика: Средняя резьба по кости",
+    "PracticeAdvancedCarvingBone": "Практика: Сложная резьба по кости",
+    "PracticeSimplePotterySurface": "Практика: Базовая лепка из глины",
+    "PracticeIntermediatePotterySurface": "Практика: Средняя лепка из глины",
+    "PracticeAdvancedPotterySurface": "Практика: Сложная лепка из глины",
+    "PracticeSimplePotteryWheel": "Практика: Базовое гончарное дело (на круге)",
+    "PracticeIntermediatePotteryWheel": "Практика: Среднее гончарное дело (на круге)",
+    "PracticeAdvancedPotteryWheel": "Практика: Сложное гончарное дело (на круге)"
+}
